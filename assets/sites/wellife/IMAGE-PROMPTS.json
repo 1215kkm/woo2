@@ -1,0 +1,318 @@
+{
+  "mode": "Built-in ImageGen, one separate generation per asset",
+  "conversion": "Proportional System.Drawing resize to exact canvas; JPEG quality 94. Detail top/bottom padding carries HTML editorial text.",
+  "assets": [
+    {
+      "file": "assets/images/hero-01.jpg",
+      "final_dimensions": [
+        2000,
+        900
+      ],
+      "native_dimensions": [
+        1870,
+        841
+      ],
+      "prompt": "Use case: photorealistic-natural. Asset type: WELLIFE shop hero photograph, exactly 2000x900 pixels, panoramic. Warm white serene room in morning daylight. Three premium vitamin bottles on light travertine plinth exclusively in right half. Cream bottles, understated forest green labels reading WELLIFE and MULTI VITAMIN, amber companion bottle. Botanical leaf shadows, linen, realistic premium editorial photography. Left half entirely empty warm ivory wall for HTML headline overlay. No overlaid text, no medical claims, no certification marks, no watermark."
+    },
+    {
+      "file": "assets/images/product-01.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single cream bottle with forest green label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"MULTI VITAMIN\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-02.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single amber bottle with cream label and a small citrus accent, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"VITAMIN C\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-03.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single cream bottle yellow label accent, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"VITAMIN D3\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-04.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single green glass bottle cream label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"VITAMIN B\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-05.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single amber glass bottle cream label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"OMEGA 3\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-06.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single cream sachet box green lettering, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"PROBIOTICS\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-07.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single cream bottle green label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"MAGNESIUM\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-08.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single amber bottle cream label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"LUTEIN\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-09.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single green glass bottle cream label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"MILK THISTLE\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-10.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single cream bottle sage label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"CALCIUM\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-11.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single cream bottle green label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"ZINC\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-12.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single amber bottle cream label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"IRON\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-13.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single cream sachet box pale blush accent, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"COLLAGEN\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-14.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single amber bottle cream label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"COENZYME Q10\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-15.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single cream bottle sage label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"BIOTIN\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/product-16.jpg",
+      "final_dimensions": [
+        600,
+        600
+      ],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "prompt": "Use case: product-mockup. Asset type: premium WELLIFE ecommerce product photograph exactly 600x600 pixels square. Subject: a single green powder tin cream label, front facing with restrained premium serif brand WELLIFE and simple sans serif product name \"DAILY GREENS\" accurately legible on packaging. Fully visible, centered with generous margin, product fills about 65% height. Warm white seamless studio backdrop, morning daylight, subtle botanical shadows, photoreal material textures. Cohesive premium natural vitamin packaging forest green and cream palette. No other products, no detached copy, no medical efficacy or certification claims, no badges, no watermark."
+    },
+    {
+      "file": "assets/images/hero-02.jpg",
+      "final_dimensions": [
+        2000,
+        900
+      ],
+      "native_dimensions": [
+        1870,
+        841
+      ],
+      "prompt": "Use case: photorealistic-natural. Asset type: premium WELLIFE ecommerce imagery exactly 2000x900 pixels. Morning glass of water and one WELLIFE MULTI VITAMIN cream bottle beside fresh foliage on right half. Airy ivory kitchen background. Entire left half empty for text overlay. Warm white soft morning daylight, subtle botanical shadows, cream and forest green premium styling, realistic photography with natural material texture. Restrained package branding WELLIFE. No medical claims, no certifications, no badge, no watermark."
+    },
+    {
+      "file": "assets/images/hero-03.jpg",
+      "final_dimensions": [
+        2000,
+        900
+      ],
+      "native_dimensions": [
+        1870,
+        841
+      ],
+      "prompt": "Use case: photorealistic-natural. Asset type: premium WELLIFE ecommerce imagery exactly 2000x900 pixels. Green botanical wellness gift still life with cream gift box, dark green ribbon and two WELLIFE cream vitamin bottles on right half. Entire left half empty warm ivory for text overlay. Warm white soft morning daylight, subtle botanical shadows, cream and forest green premium styling, realistic photography with natural material texture. Restrained package branding WELLIFE. No medical claims, no certifications, no badge, no watermark."
+    },
+    {
+      "file": "assets/images/promo-01.jpg",
+      "final_dimensions": [
+        1500,
+        500
+      ],
+      "native_dimensions": [
+        2167,
+        725
+      ],
+      "prompt": "Use case: photorealistic-natural. Asset type: premium WELLIFE ecommerce imagery exactly 1500x500 pixels. Panoramic linen gift box still life with WELLIFE cream vitamin bottle and forest green ribbon on right half, empty warm cream left half. Warm white soft morning daylight, subtle botanical shadows, cream and forest green premium styling, realistic photography with natural material texture. Restrained package branding WELLIFE. No medical claims, no certifications, no badge, no watermark."
+    },
+    {
+      "file": "assets/images/promo-02.jpg",
+      "final_dimensions": [
+        1500,
+        500
+      ],
+      "native_dimensions": [
+        2172,
+        724
+      ],
+      "prompt": "Use case: photorealistic-natural. Asset type: premium WELLIFE ecommerce imagery exactly 1500x500 pixels. Panoramic leafy greenhouse morning table, WELLIFE cream vitamin bottle and clear glass on right half, softly blurred empty cream left half. Warm white soft morning daylight, subtle botanical shadows, cream and forest green premium styling, realistic photography with natural material texture. Restrained package branding WELLIFE. No medical claims, no certifications, no badge, no watermark."
+    },
+    {
+      "file": "assets/images/popup-01.jpg",
+      "final_dimensions": [
+        400,
+        300
+      ],
+      "native_dimensions": [
+        1448,
+        1086
+      ],
+      "prompt": "Use case: photorealistic-natural. Asset type: premium WELLIFE ecommerce imagery exactly 400x300 pixels. Close gift bottle composition: WELLIFE cream vitamin bottle, cream gift box, green ribbon and delicate foliage, balanced centered still life. Warm white soft morning daylight, subtle botanical shadows, cream and forest green premium styling, realistic photography with natural material texture. Restrained package branding WELLIFE. No medical claims, no certifications, no badge, no watermark."
+    },
+    {
+      "file": "assets/images/popup-02.jpg",
+      "final_dimensions": [
+        400,
+        300
+      ],
+      "native_dimensions": [
+        1448,
+        1086
+      ],
+      "prompt": "Use case: photorealistic-natural. Asset type: premium WELLIFE ecommerce imagery exactly 400x300 pixels. Morning routine close composition, clear water glass and WELLIFE cream vitamin bottle on travertine beside soft green leaves. Warm white soft morning daylight, subtle botanical shadows, cream and forest green premium styling, realistic photography with natural material texture. Restrained package branding WELLIFE. No medical claims, no certifications, no badge, no watermark."
+    },
+    {
+      "file": "assets/images/detail-01.jpg",
+      "final_dimensions": [
+        800,
+        3000
+      ],
+      "native_dimensions": [
+        793,
+        1983
+      ],
+      "prompt": "Use case: photorealistic-natural. Asset type: premium WELLIFE ecommerce imagery exactly 800x3000 pixels. Very tall vertical product editorial artwork for WELLIFE MULTI VITAMIN. Three visually distinct sequential sections top to bottom: premium cream bottle with forest green label on travertine; botanical leaves and citrus editorial ingredient-inspired still life without ingredient claims; morning glass water and bottle ritual. Generous cream negative space and refined green Korean typography. Exact Korean copy only: top \"나를 위한 매일의 루틴\" with \"WELLIFE MULTI VITAMIN\"; middle \"선택 전, 라벨을 확인하세요\" and \"원료와 함량, 섭취 방법을 확인하세요.\"; bottom \"나에게 맞는 일상을 만들어요\" and \"제품에 표시된 안내를 확인하고 나의 생활에 맞는 루틴을 선택하세요.\" No other text, no invented efficacy, no dosage or health facts. Full long page 800 by 3000 pixels. Warm white soft morning daylight, subtle botanical shadows, cream and forest green premium styling, realistic photography with natural material texture. Restrained package branding WELLIFE. No medical claims, no certifications, no badge, no watermark."
+    },
+    {
+      "file": "assets/images/woman-banner.jpg",
+      "final_dimensions": [
+        1500,
+        500
+      ],
+      "native_dimensions": [
+        2172,
+        724
+      ],
+      "prompt": "Use case: photorealistic lifestyle banner. Input image is a composition reference screenshot only. Recreate ONLY the middle banner photograph showing a woman enjoying water, not the webpage or any other scene. Landscape 3:1 composition, 1500x500 intended final. A young adult East Asian woman placed on the right third, long natural brown hair, light cream shirt, eyes gently closed, face turned slightly upward toward warm morning sunlight, peaceful natural expression. She holds a clear glass filled with water near her chin in her right hand, hand near the center, face and glass fully within frame. Warm white bright room, pale soft green botanical shadows and blurred foliage; left half is soft off-white empty negative space for subsequent text. Premium wellness editorial photography, authentic skin texture, soft sun, realistic glass refraction. Match the reference middle banner's wide close portrait framing and color mood. No text, lettering, logos, graphics, UI, collage, bottles, watermark. ONE seamless photographic image."
+    },
+    {
+      "file": "assets/images/woman-story.jpg",
+      "final_dimensions": [
+        1200,
+        900
+      ],
+      "native_dimensions": [
+        1448,
+        1086
+      ],
+      "prompt": "Use case: photorealistic wellness brand lifestyle portrait. Input screenshot is a reference only: recreate ONLY the large main-page woman portrait in the middle left of screenshot, no webpage. Generate one 4:3 landscape 1200x900 photograph. Young adult East Asian woman on right half, eyes closed peacefully, face turned gently up and toward left in warm morning sunlight. Brown hair loosely tied back in low bun with wispy strands framing face; cream knit V-neck cardigan with subtle texture; upper chest and shoulders visible along bottom. Soft off-white and pale green sunlit room behind her, blurred botanical shadows. LEFT 40 percent mostly empty softly lit pale green/off-white negative space for later text. Editorial natural beauty photography, warm natural skin, gentle sunlight on cheek and neck. The woman's head and face fully inside frame, right edge may crop shoulder, framing and mood closely match screenshot middle portrait. No water glass, no hand-held objects, no text, no logos, no webpage/UI, no watermark."
+    }
+  ]
+}

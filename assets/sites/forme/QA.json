@@ -1,0 +1,665 @@
+{
+  "date": "2026-09-18T10:50:51.696Z",
+  "checks": [
+    "home 8 distinct products",
+    "129000 + 39000 × 2 = 207000; free shipping",
+    "selected tee × 2: 78000 + 3000 shipping = 81000",
+    "coupon capped at 10000; completed order total 197000; input preserved",
+    "order persists and purchased cart lines removed",
+    "category and ascending price filters",
+    "search empty and saved review",
+    "27 routes × 4 widths no horizontal overflow",
+    "reference AFTER CLASS current HTML rendered"
+  ],
+  "errors": [],
+  "layout": [
+    {
+      "width": 393,
+      "route": "",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "shop",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "search",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "product",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "cart",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "checkout",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "saved",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "my",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "orders",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "order",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "complete",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "support",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "support/contact",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "support/notice",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "events",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "events/welcome",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "coupons",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "settings",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "notifications",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "about",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "editorial",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "review",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "states",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "states/loading",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "states/error",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "done/contact",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 393,
+      "route": "privacy",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "shop",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "search",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "product",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "cart",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "checkout",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "saved",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "my",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "orders",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "order",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "complete",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "support",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "support/contact",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "support/notice",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "events",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "events/welcome",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "coupons",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "settings",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "notifications",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "about",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "editorial",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "review",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "states",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "states/loading",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "states/error",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "done/contact",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "route": "privacy",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "shop",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "search",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "product",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "cart",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "checkout",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "saved",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "my",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "orders",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "order",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "complete",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "support",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "support/contact",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "support/notice",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "events",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "events/welcome",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "coupons",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "settings",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "notifications",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "about",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "editorial",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "review",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "states",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "states/loading",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "states/error",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "done/contact",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1440,
+      "route": "privacy",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "shop",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "search",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "product",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "cart",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "checkout",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "saved",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "my",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "orders",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "order",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "complete",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "support",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "support/contact",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "support/notice",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "events",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "events/welcome",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "coupons",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "settings",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "notifications",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "about",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "editorial",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "review",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "states",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "states/loading",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "states/error",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "done/contact",
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "width": 1920,
+      "route": "privacy",
+      "overflow": false,
+      "bad": []
+    }
+  ]
+}

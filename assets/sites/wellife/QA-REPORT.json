@@ -1,0 +1,119 @@
+{
+  "html_pages": 28,
+  "product_detail_pages": 16,
+  "catalog_cards": 16,
+  "home_cards": 18,
+  "identical_headers": true,
+  "identical_footers": true,
+  "local_image_count": 26,
+  "image_dimensions": {
+    "hero-01.jpg": [
+      2000,
+      900
+    ],
+    "hero-02.jpg": [
+      2000,
+      900
+    ],
+    "hero-03.jpg": [
+      2000,
+      900
+    ],
+    "product-01.jpg": [
+      600,
+      600
+    ],
+    "product-02.jpg": [
+      600,
+      600
+    ],
+    "product-03.jpg": [
+      600,
+      600
+    ],
+    "product-04.jpg": [
+      600,
+      600
+    ],
+    "product-05.jpg": [
+      600,
+      600
+    ],
+    "product-06.jpg": [
+      600,
+      600
+    ],
+    "product-07.jpg": [
+      600,
+      600
+    ],
+    "product-08.jpg": [
+      600,
+      600
+    ],
+    "product-09.jpg": [
+      600,
+      600
+    ],
+    "product-10.jpg": [
+      600,
+      600
+    ],
+    "product-11.jpg": [
+      600,
+      600
+    ],
+    "product-12.jpg": [
+      600,
+      600
+    ],
+    "product-13.jpg": [
+      600,
+      600
+    ],
+    "product-14.jpg": [
+      600,
+      600
+    ],
+    "product-15.jpg": [
+      600,
+      600
+    ],
+    "product-16.jpg": [
+      600,
+      600
+    ],
+    "promo-01.jpg": [
+      1500,
+      500
+    ],
+    "promo-02.jpg": [
+      1500,
+      500
+    ],
+    "popup-01.jpg": [
+      400,
+      300
+    ],
+    "popup-02.jpg": [
+      400,
+      300
+    ],
+    "detail-01.jpg": [
+      800,
+      3000
+    ],
+    "woman-banner.jpg": [
+      1500,
+      500
+    ],
+    "woman-story.jpg": [
+      1200,
+      900
+    ]
+  },
+  "javascript_syntax_checked": 73,
+  "browser_visual_testing": false,
+  "errors": [],
+  "passed": true
+}

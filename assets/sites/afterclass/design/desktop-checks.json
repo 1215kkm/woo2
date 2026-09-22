@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-17",
+  "kind": "DOM and source assertions; not browser rendering",
+  "results": [
+    {
+      "name": "Desktop purchase controls exist",
+      "pass": true
+    },
+    {
+      "name": "Missing size shows actionable error",
+      "pass": true
+    },
+    {
+      "name": "Size selection state",
+      "pass": true
+    },
+    {
+      "name": "Quantity and total",
+      "pass": true
+    },
+    {
+      "name": "Long detail story is outside purchase panel",
+      "pass": true
+    },
+    {
+      "name": "Mobile option sheet still works",
+      "pass": true
+    },
+    {
+      "name": "Separate desktop hero and unchanged mobile campaign coexist",
+      "pass": true
+    },
+    {
+      "name": "Four product records and one editorial insertion",
+      "pass": true
+    },
+    {
+      "name": "Category still filters",
+      "pass": true
+    },
+    {
+      "name": "Gallery ratio override is square with automatic height",
+      "pass": true
+    },
+    {
+      "name": "Desktop rules isolated above 700px",
+      "pass": true
+    }
+  ]
+}

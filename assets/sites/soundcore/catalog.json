@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "AURORA",
+    "type": "오픈형 이어폰",
+    "color": "Pearl White",
+    "price": 149000,
+    "image": "assets/product-01.jpg",
+    "detail": "product-detail.html"
+  },
+  {
+    "id": 2,
+    "name": "NEXA PRO",
+    "type": "커널형 이어폰",
+    "color": "Matte Black",
+    "price": 199000,
+    "image": "assets/product-02.jpg",
+    "detail": "product-detail-02.html"
+  },
+  {
+    "id": 3,
+    "name": "AIR FIT",
+    "type": "컴팩트 이어폰",
+    "color": "Silver",
+    "price": 129000,
+    "image": "assets/product-03.jpg",
+    "detail": "product-detail-03.html"
+  },
+  {
+    "id": 4,
+    "name": "FLOW MAX",
+    "type": "오버이어 헤드폰",
+    "color": "Black",
+    "price": 239000,
+    "image": "assets/product-04.jpg",
+    "detail": "product-detail-04.html"
+  },
+  {
+    "id": 5,
+    "name": "MOVE",
+    "type": "스포츠 이어폰",
+    "color": "Black",
+    "price": 129000,
+    "image": "assets/product-05.jpg",
+    "detail": "product-detail-05.html"
+  },
+  {
+    "id": 6,
+    "name": "AURORA SILVER",
+    "type": "오픈형 이어폰",
+    "color": "Silver",
+    "price": 159000,
+    "image": "assets/product-06.jpg",
+    "detail": "product-detail-06.html"
+  },
+  {
+    "id": 7,
+    "name": "NEXA IVORY",
+    "type": "커널형 이어폰",
+    "color": "Ivory",
+    "price": 199000,
+    "image": "assets/product-07.jpg",
+    "detail": "product-detail-07.html"
+  },
+  {
+    "id": 8,
+    "name": "AIR MINI",
+    "type": "컴팩트 이어폰",
+    "color": "White",
+    "price": 99000,
+    "image": "assets/product-08.jpg",
+    "detail": "product-detail-08.html"
+  },
+  {
+    "id": 9,
+    "name": "FLOW IVORY",
+    "type": "오버이어 헤드폰",
+    "color": "Ivory",
+    "price": 239000,
+    "image": "assets/product-09.jpg",
+    "detail": "product-detail-09.html"
+  },
+  {
+    "id": 10,
+    "name": "MOVE STONE",
+    "type": "스포츠 이어폰",
+    "color": "Stone",
+    "price": 139000,
+    "image": "assets/product-10.jpg",
+    "detail": "product-detail-10.html"
+  },
+  {
+    "id": 11,
+    "name": "NEXA SILVER",
+    "type": "커널형 이어폰",
+    "color": "Silver",
+    "price": 209000,
+    "image": "assets/product-11.jpg",
+    "detail": "product-detail-11.html"
+  },
+  {
+    "id": 12,
+    "name": "AURORA ROSE",
+    "type": "오픈형 이어폰",
+    "color": "Rose",
+    "price": 159000,
+    "image": "assets/product-12.jpg",
+    "detail": "product-detail-12.html"
+  },
+  {
+    "id": 13,
+    "name": "FLOW STUDIO",
+    "type": "오버이어 헤드폰",
+    "color": "Silver / Black",
+    "price": 289000,
+    "image": "assets/product-13.jpg",
+    "detail": "product-detail-13.html"
+  },
+  {
+    "id": 14,
+    "name": "AIR GRAPHITE",
+    "type": "컴팩트 이어폰",
+    "color": "Graphite",
+    "price": 129000,
+    "image": "assets/product-14.jpg",
+    "detail": "product-detail-14.html"
+  },
+  {
+    "id": 15,
+    "name": "MOVE WHITE",
+    "type": "스포츠 이어폰",
+    "color": "White",
+    "price": 139000,
+    "image": "assets/product-15.jpg",
+    "detail": "product-detail-15.html"
+  },
+  {
+    "id": 16,
+    "name": "NEXA MIDNIGHT",
+    "type": "커널형 이어폰",
+    "color": "Midnight Blue",
+    "price": 209000,
+    "image": "assets/product-16.jpg",
+    "detail": "product-detail-16.html"
+  }
+]

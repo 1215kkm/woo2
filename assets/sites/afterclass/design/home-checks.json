@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-17",
+  "kind": "DOM interaction and source checks; no browser rendering",
+  "assets": [
+    {
+      "name": "hero-fullscreen",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "name": "look-fullbody",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "name": "products-autumn-extra",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "results": [
+    {
+      "name": "Fullscreen campaign and image overlay heading",
+      "pass": true
+    },
+    {
+      "name": "Eight products in main catalog",
+      "pass": true
+    },
+    {
+      "name": "Two new editorial shopping sections",
+      "pass": true
+    },
+    {
+      "name": "Three individually linked worn products",
+      "pass": true
+    },
+    {
+      "name": "Home content has no undefined fields",
+      "pass": true
+    },
+    {
+      "name": "Catalog contains all eight products",
+      "pass": true
+    },
+    {
+      "name": "New category filters",
+      "pass": true
+    },
+    {
+      "name": "New detail 5 correct content",
+      "pass": true
+    },
+    {
+      "name": "New detail 7 correct content",
+      "pass": true
+    },
+    {
+      "name": "Bag has a FREE option in desktop and mobile controls",
+      "pass": true
+    },
+    {
+      "name": "New images have expected landscape portrait and square formats",
+      "pass": true
+    }
+  ]
+}

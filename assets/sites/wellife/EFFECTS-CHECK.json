@@ -1,0 +1,20 @@
+{
+  "index.html": {
+    "cards": 18,
+    "add_buttons": 19,
+    "errors": [],
+    "effects_js": true
+  },
+  "products.html": {
+    "cards": 16,
+    "add_buttons": 16,
+    "errors": [],
+    "effects_js": true
+  },
+  "product-detail.html": {
+    "cards": 0,
+    "add_buttons": 0,
+    "errors": [],
+    "effects_js": true
+  }
+}

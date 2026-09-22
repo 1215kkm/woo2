@@ -1,0 +1,1 @@
+{"name":"pj-portfolio","version":"1.0.0","private":true,"scripts":{"dev":"node server.cjs","start":"node server.cjs"}}

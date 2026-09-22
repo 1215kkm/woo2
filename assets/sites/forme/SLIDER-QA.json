@@ -1,0 +1,21 @@
+{
+  "slides": 3,
+  "durations": [
+    6000,
+    7000,
+    6000
+  ],
+  "tested": [
+    "timed automatic transition",
+    "progress fill",
+    "pause freezes elapsed time",
+    "manual slide selection",
+    "next/previous wrap",
+    "inactive slide inert",
+    "keyboard focus pauses",
+    "arrow key selection",
+    "reduced motion pauses autoplay",
+    "desktop/mobile image decoding and overflow"
+  ],
+  "errors": []
+}

@@ -1,0 +1,5 @@
+{
+  "checks": 46,
+  "passed": 46,
+  "scope": "DOM and local interactions only, no visual browser QA"
+}

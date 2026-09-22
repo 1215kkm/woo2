@@ -1,0 +1,12 @@
+.browser-check/
+.browser-verify/
+.pt-images/
+.agents/
+.codex/
+node_modules/
+assets/verify-*.png
+assets/desktop-check.png
+assets/verification.json
+assets/sites/lunare/
+.env*
+*.log

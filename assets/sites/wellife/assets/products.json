@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "데일리 멀티비타민",
+    "english": "MULTI VITAMIN",
+    "price": 32000,
+    "original_price": 40000,
+    "category": "비타민",
+    "image": "images/product-01.jpg",
+    "page": "product-detail.html"
+  },
+  {
+    "id": 2,
+    "name": "퓨어 비타민 C",
+    "english": "VITAMIN C",
+    "price": 24000,
+    "original_price": 30000,
+    "category": "비타민",
+    "image": "images/product-02.jpg",
+    "page": "product-detail-02.html"
+  },
+  {
+    "id": 3,
+    "name": "선샤인 비타민 D3",
+    "english": "VITAMIN D3",
+    "price": 22000,
+    "original_price": 28000,
+    "category": "비타민",
+    "image": "images/product-03.jpg",
+    "page": "product-detail-03.html"
+  },
+  {
+    "id": 4,
+    "name": "밸런스 비타민 B",
+    "english": "VITAMIN B",
+    "price": 29000,
+    "original_price": 36000,
+    "category": "비타민",
+    "image": "images/product-04.jpg",
+    "page": "product-detail-04.html"
+  },
+  {
+    "id": 5,
+    "name": "클린 오메가 3",
+    "english": "OMEGA 3",
+    "price": 38000,
+    "original_price": 45000,
+    "category": "오메가",
+    "image": "images/product-05.jpg",
+    "page": "product-detail-05.html"
+  },
+  {
+    "id": 6,
+    "name": "데일리 프로바이오틱스",
+    "english": "PROBIOTICS",
+    "price": 35000,
+    "original_price": 42000,
+    "category": "유산균",
+    "image": "images/product-06.jpg",
+    "page": "product-detail-06.html"
+  },
+  {
+    "id": 7,
+    "name": "릴랙스 마그네슘",
+    "english": "MAGNESIUM",
+    "price": 26000,
+    "original_price": 32000,
+    "category": "미네랄",
+    "image": "images/product-07.jpg",
+    "page": "product-detail-07.html"
+  },
+  {
+    "id": 8,
+    "name": "포커스 루테인",
+    "english": "LUTEIN",
+    "price": 28000,
+    "original_price": 35000,
+    "category": "데일리 케어",
+    "image": "images/product-08.jpg",
+    "page": "product-detail-08.html"
+  },
+  {
+    "id": 9,
+    "name": "퓨어 밀크씨슬",
+    "english": "MILK THISTLE",
+    "price": 30000,
+    "original_price": 38000,
+    "category": "데일리 케어",
+    "image": "images/product-09.jpg",
+    "page": "product-detail-09.html"
+  },
+  {
+    "id": 10,
+    "name": "에센셜 칼슘",
+    "english": "CALCIUM",
+    "price": 25000,
+    "original_price": 32000,
+    "category": "미네랄",
+    "image": "images/product-10.jpg",
+    "page": "product-detail-10.html"
+  },
+  {
+    "id": 11,
+    "name": "에센셜 아연",
+    "english": "ZINC",
+    "price": 19000,
+    "original_price": 24000,
+    "category": "미네랄",
+    "image": "images/product-11.jpg",
+    "page": "product-detail-11.html"
+  },
+  {
+    "id": 12,
+    "name": "젠틀 철분",
+    "english": "IRON",
+    "price": 23000,
+    "original_price": 29000,
+    "category": "미네랄",
+    "image": "images/product-12.jpg",
+    "page": "product-detail-12.html"
+  },
+  {
+    "id": 13,
+    "name": "데일리 콜라겐",
+    "english": "COLLAGEN",
+    "price": 36000,
+    "original_price": 44000,
+    "category": "데일리 케어",
+    "image": "images/product-13.jpg",
+    "page": "product-detail-13.html"
+  },
+  {
+    "id": 14,
+    "name": "코엔자임 Q10",
+    "english": "COENZYME Q10",
+    "price": 39000,
+    "original_price": 48000,
+    "category": "데일리 케어",
+    "image": "images/product-14.jpg",
+    "page": "product-detail-14.html"
+  },
+  {
+    "id": 15,
+    "name": "에센셜 비오틴",
+    "english": "BIOTIN",
+    "price": 24000,
+    "original_price": 30000,
+    "category": "비타민",
+    "image": "images/product-15.jpg",
+    "page": "product-detail-15.html"
+  },
+  {
+    "id": 16,
+    "name": "데일리 그린 블렌드",
+    "english": "DAILY GREENS",
+    "price": 33000,
+    "original_price": 41000,
+    "category": "데일리 케어",
+    "image": "images/product-16.jpg",
+    "page": "product-detail-16.html"
+  }
+]
