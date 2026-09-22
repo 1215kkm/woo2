@@ -32,3 +32,4 @@
 .hero .orb{left:15%;top:43%;width:100%;max-width:1500px;height:auto;aspect-ratio:1;border-radius:50%;background:none;box-shadow:none;pointer-events:none}
 .hero .orb canvas{display:block;width:100%;height:100%;filter:drop-shadow(0 -8px 24px #6599db22)}
 @media(max-width:760px){.hero .orb{left:-10%;top:46%;width:140%;max-width:none}}
+.project[data-type=package] .project-visual{height:auto;aspect-ratio:3/2;overflow:hidden}.project[data-type=popup] .project-visual{height:auto;aspect-ratio:1;overflow:hidden}.project[data-type=package] img,.project[data-type=popup] img{object-fit:contain}
